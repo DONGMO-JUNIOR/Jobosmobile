@@ -4,3 +4,4 @@ apres l avoir creer positionner vous sur votre projet en utilisant cd suivie du 
 
 NB: - ne pas faire de push sur la branche main
     -toujours commenter sont code
+jobosmobile reinitialiser avec angular
