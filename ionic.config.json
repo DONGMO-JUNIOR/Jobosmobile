@@ -1,7 +1,0 @@
-{
-  "name": "Jobosmobile",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react-vite"
-}
